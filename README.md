@@ -1,13 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###
+This Project was bootstrapped from Create React App
 
 ###
-git clone repo
-
-### 
-run `npm install` if needed
-
-### 
-run `npm start`
+Open your choice of terminal and clone this repo
 
 ###
-navigate to localhost:3000
+make sure you're in "the-cat-api" directory in your terminal
+
+### 
+run `npm install` or `yarn`
+
+### 
+run `npm start` or `yarn start`
+
+###
+navigate to localhost:3000 or the next avaiable localhost
